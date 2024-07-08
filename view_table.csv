@@ -1,0 +1,16 @@
+"id","name","price","status","item_type","gst_sgt","profit","loss"
+1,"item",34,False,"fruit",0,NULL,NULL
+3,"item3",35,False,"fruit",0,NULL,NULL
+11,"item3",35,False,"fruit",0,NULL,NULL
+12,"item4",45,False,"veg",0,NULL,NULL
+13,"item5",55,False,"dryfruit",0,NULL,NULL
+14,"item3",35,False,"fruit",0,NULL,NULL
+15,"item4",45,False,"veg",0,NULL,NULL
+16,"item5",55,False,"dryfruit",0,NULL,NULL
+2,"item2",35,True,"fruit",0,NULL,NULL
+4,"item4",45,True,NULL,0,NULL,NULL
+18,"1item",75,False,"non-veg",12,NULL,NULL
+19,"item1",89,True,"pure-veg",12,NULL,NULL
+9,"items5",34,False,"fruit",0,980,"thoda loss"
+17,"xyz",75,True,"orange",57,50,"jada loss"
+5,"item8",34,True,"banana",23,7517,"lossofloss"
